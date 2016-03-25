@@ -1,7 +1,17 @@
 body{
-	background-color: lightslategray;
+	background-color: #6F84FF;
 }
 
-h1, p{
-	color: lightsteelblue;
+h1{
+	color:#F4E8FF;
+	font-family: arial, sans-serif;
+}
+
+h3{
+	color:#F4E8FF;
+	font-family: arial, sans-serif;
+}
+
+p{
+	color: #AEB3FF;
 }
