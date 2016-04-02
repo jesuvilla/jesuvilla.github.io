@@ -1,0 +1,114 @@
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #000000;
+	/*background-image: url(images/flores.jpg);*/
+	line-height: 1.3;
+	font-size: 16px;
+}
+
+header {
+	padding: 20px;
+}
+
+section {
+	background-color: #d1dddd;
+	padding: 20px;
+}
+
+h1 {
+	font-family: optima, sans-serif;
+	color: #e8f0ea;
+}
+
+h2{
+	font-family: optima, sans-serif;
+	color: #131a15;
+}
+
+h3{
+	font-family: optima, sans-serif;
+	color: #131a15;
+	margin-top: 30px;
+	margin-bottom: 8px;
+	text-decoration: underline;
+}
+
+img {
+	width: 100%;
+	padding:0;
+	margin:0;
+}
+
+p {
+	font-family: helvetica, sans-serif;
+	font-size: 0.8em;
+	color: #0e1011;
+}
+
+hr {
+	width: 97%;
+	margin-left: 20px;
+	border: 0;
+    height: 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+ul {
+	font-family: helvetica, sans-serif;
+	font-size: 0.8em;
+	color: #0e1011;
+	text-align: left;
+	margin-left: 30px;
+    list-style-type: none;
+}
+
+li {
+}
+
+a {
+	font-family: helvetica, sans-serif;
+	text-decoration: none;
+	color: rgba(255,255,255,1);
+	font-weight: bold;
+	border-color: rgba(51,109,0,0.5);
+}
+
+a:hover {
+  color: #25575b;
+  font-weight: bold;
+}
+
+nav a {
+	text-decoration: none;
+	color: rgba(232,240,234,0.9);
+	font-weight: 100;
+	font-family: helvetica, sans-serif;
+}
+
+nav a:hover {
+  color: rgba(232,240,234,1);
+  font-weight: 300;
+}
+
+#slogan {
+	color: #a7ada8;
+}
+
+#gorda {
+	background-color: rgba(216,229,220,.6);
+	width: 40px;
+	height: 4px;
+	border-style: none;
+	margin-left: 0em;
+	margin-bottom: 0.6em;
+}
+
+/*a:visited {
+  font-weight: normal;
+  color: #928f01;
+  }*/
