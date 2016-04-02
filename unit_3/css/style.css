@@ -81,9 +81,10 @@ a {
 a:hover {
   color: #25575b;
   font-weight: bold;
+  transition: display 2s;
 }
 
-nav a {
+/*nav a {
 	text-decoration: none;
 	color: rgba(232,240,234,0.9);
 	font-weight: 100;
@@ -93,7 +94,7 @@ nav a {
 nav a:hover {
   color: rgba(232,240,234,1);
   font-weight: 300;
-}
+}*/
 
 #slogan {
 	color: #a7ada8;

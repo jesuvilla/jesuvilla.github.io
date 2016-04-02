@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Vollkorn:400,700) url(https://fonts.googleapis.com/css?family=Open+Sans:800) url("fonts/SinaNovaW01SC-Regular.ttf") url("fonts/QuantW01-Light.ttf");
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	margin:8px;
+	background: #75ac97;
+}
+
+header {
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 3em;
+	background-color: #e2ce66;
+}
+
+section {
+	padding-top: 2.5em;
+	padding-left: 19.1em;
+	padding-right: 19.1em;
+	text-align: left;
+	/*height: 370px;*/
+	background-color: #85b8c3;
+}
+
+h1 {
+	font-family: 'Open Sans', serif;
+	font-size: 6em;
+	font-weight: 800;
+	color: #363637;
+	margin-bottom: 0;
+}
+
+h3 {
+	font-family: helvetica, sans-serif;
+	font-weight: lighter;
+	font-size: 1.5em;
+	color: #363637;
+	margin-top: 0.2em;
+}
+
+p{
+	font-family: "QuantW01-Light.ttf", serif;
+	font-size: 1.1em;
+	line-height: 1.5em;
+	color: #3e4e56;
+	padding: 0.5em;
+}
+
+a {
+	font-family: 'Vollkorn',serif;
+	font-weight: 700;
+	color: #b2738f;
+	text-decoration: none;
+	letter-spacing: 0.04em;
+}
+
+#uso {
+	font-size: 1.3em;
+	font-family: "SinaNovaW01SC-Regular";
+	color: #f5f1eb;
+	padding-bottom: 2em;
+	letter-spacing: 0.02em;
+	word-spacing: 0.04em;
+}
