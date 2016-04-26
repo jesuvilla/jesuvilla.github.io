@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+ *{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+} 
+
+body {
+	background-color: #fff; 
+	font-size: 18px;
+}
+
+header {
+	background-color: #ccc;
+	background-image: url(../images/prueba.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; /* scale to screen */
+	background-position: top center;
+	height: 100vh;
+	padding: 30px;
+}
+
+nav {
+	font-family: 'Montserrat', sans-serif;
+	float: right;
+
+}
+
+h1 {
+	background-color: white;
+}
+
+h3 {
+	color: #fafafa;
+	background-color: rgba(0,0,0,.8);
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 2em;
+	display: block;
+	width: 300px;
+	float: left;
+	padding: 15px;
+}
+
+h4 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	clear: both;
+	text-align: left;
+	margin-top: 600px;
+	margin-left: 1010px;
+}
+
+img {
+	width: 100%;
+}
+
+a {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	text-decoration: none;
+	color: rgba(255,255,255,.7);
+	margin: 0 20px;
+	padding-bottom: 5px;
+}
+
+a:hover {
+	color: #fff;
+	border-bottom: 2px solid #fff;
+}
+
+#wrapper {
+}
